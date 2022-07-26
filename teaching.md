@@ -19,7 +19,7 @@
 ### Supervision
 
 
-- 2022, Spring Semester. Supervision of 2 Master Theses. Linköping University, Master's Programme in Computational Social Science. Norrköping, France.
+- 2022, Spring Semester. Supervision of 2 Master Theses. Linköping University, Master's Programme in Computational Social Science. Norrköping, Sweden.
 - 2021; 2022. Supervision of Research Assistants. CREST. Palaiseau, France.
 
 
