@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Rubing Shen
-description: PhD Candidate in Sociology
+description: &description "PhD Candidate in Sociology"
 mail: rubing.shen@sciencespo.fr
-show_downloads: false
+name: &name "Rubing Shen"
+twitter:
+  username: &"@RubingShen"
