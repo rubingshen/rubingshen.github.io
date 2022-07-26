@@ -7,19 +7,20 @@
 ### Lectures
 
 
-- 2021; 2022, Fall Semester. Introduction to Python (for Social Scientists). Master-level. Sciences Po - Paris School of International Affairs. 
+- 2021; 2022, Fall Semester. Introduction to Python (for Social Scientists). Sciences Po, Paris School of International Affairs (Master-level). Paris, France. 
 
 
 ### Teaching Assistant
 
 
-- 2022, Fall Semester. Decoding Biases in Artifical Intelligence. Master-level. Sciences Po - School of Public Affairs.
+- 2022, Fall Semester. Decoding Biases in Artifical Intelligence. Master-level. Sciences Po, School of Public Affairs (Master-level). Paris, France.
 
 
 ### Supervision
 
 
-- 2022, Spring Semester. Supervision of 2 Master Theses in Computational Social Sciences. Linköping University.
+- 2022, Spring Semester. Supervision of 2 Master Theses. Linköping University, Master's Programme in Computational Social Science. Norrköping, France.
+- 2021; 2022. Supervision of Research Assistants. CREST. Palaiseau, France.
 
 
 ### Guest Lectures
