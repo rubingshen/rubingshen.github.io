@@ -2,4 +2,4 @@
 
 # Publications
 
-Comming soon !
+Comming soon!
