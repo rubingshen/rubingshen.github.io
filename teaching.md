@@ -1,4 +1,4 @@
-## [Home](index.md) • [Publications](publications.md) • [Talks](talks.md) • [Teaching](teaching.md) • [Vita](cv.md)
+### [Home](index.md) • [Publications](publications.md) • [Talks](talks.md) • [Teaching](teaching.md) • [Vita](cv.md)
 
 
 # Teaching
@@ -19,7 +19,7 @@
 ### Supervision
 
 
-- Spring 2022. Supervision of 2 master theses in Computational Social Sciences. *[Linköping University](https://liu.se/en/education/program/f7mcd)*.
+- Spring 2022. Supervision of 2 master theses in Computational Social Sciences. Linköping University.
 
 
 ### Guest Lectures
