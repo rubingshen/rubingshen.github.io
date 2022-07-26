@@ -25,4 +25,4 @@
 
 ### Guest Lectures
 
-- 2021, January 21<sup>th</sup>. Sociologie du champ politiquqe. École polytechnique.
+- 2021, January 21<sup>th</sup>. Sociologie du champ politiquqe. École polytechnique. Palaiseau, France.
