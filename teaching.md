@@ -22,4 +22,4 @@
 - Spring 2022. Supervision of 2 master theses in Computational Social Sciences. *[Linköping University](https://liu.se/en/education/program/f7mcd)*.
 
 
-## Guest Lectures
+**Guest Lectures**
