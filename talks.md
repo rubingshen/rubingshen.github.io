@@ -4,7 +4,7 @@
 # Talks
 
 
-**Keynotes and Invited Presentations**
+### Keynotes and Invited Presentations
 
 
 - (with É. Ollion) The Augmented Social Scientist. *SICSS-Paris*. Palaiseau, France. June 30<sup>th</sup> 2022.
@@ -13,7 +13,7 @@
 - Investigating the Rise and Causes of Strategic News Coverage with Artificial Intelligence. *International Roundtable on Computational Social Science*. Norrköping, Sweden. March 17<sup>th</sup> 2022.
 
 
-**Conference Presentations**
+### Conference Presentations
 
 
 - (with F. Lennert & É. Ollion) A Right-Wing Turn in the Media? On the (Many) Challenges of Measuring Media Bias with Text Data. *16ème Congrès National de l’Association Française de Sciences Politiques*. Lille, France. July 7<sup>th</sup> 2022.
