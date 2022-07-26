@@ -7,7 +7,7 @@
 ### Lectures
 
 
-- Fall 2021; 2022: Introduction to Python (for Social Scientists). Master-level. Sciences Po - Paris School of International Affairs.
+- Fall 2021; 2022. Introduction to Python (for Social Scientists). Master-level. Sciences Po - Paris School of International Affairs.
 
 
 ### Teaching Assistant
