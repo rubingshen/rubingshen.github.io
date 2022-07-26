@@ -28,5 +28,5 @@
 - (with É. Ollion) Narrating Politics. How Journalists Changed the Way They Cover Political News in France. *NewsEye’s Intenational Conference*. Online. March 17<sup>th</sup> 2021.
 
 
-- (with F. Pacaud) Interior-Point Methods for Logistic Regression. *PGMO days*. Palaiseau, France. December 4<sup>th</sup> 2019.
+- (with F. Pacaud) Interior-Point Methods for Logistic Regression. *PGMO Days*. Palaiseau, France. December 4<sup>th</sup> 2019.
 
