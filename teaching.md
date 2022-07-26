@@ -7,13 +7,13 @@
 ### Lectures
 
 
-- 2021; 2022, Fall Semester. Introduction to Python (for Social Scientists). Sciences Po, Paris School of International Affairs (Master-level). Paris, France. 
+- 2021; 2022, Fall Semester. *Introduction to Python (for Social Scientists)*. Sciences Po, Paris School of International Affairs (Master-level). Paris, France. 
 
 
 ### Teaching Assistant
 
 
-- 2022, Fall Semester. Decoding Biases in Artifical Intelligence. Master-level. Sciences Po, School of Public Affairs (Master-level). Paris, France.
+- 2022, Fall Semester. *Decoding Biases in Artifical Intelligence*. Sciences Po, School of Public Affairs (Master-level). Paris, France.
 
 
 ### Supervision
@@ -25,4 +25,4 @@
 
 ### Guest Lectures
 
-- 2021, January 21<sup>th</sup>. Sociologie du champ politiquqe. École polytechnique. Palaiseau, France.
+- 2021, January 21<sup>th</sup>. *Sociologie du champ politiquqe*. École polytechnique. Palaiseau, France.
