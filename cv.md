@@ -20,3 +20,14 @@
 - 2020-2021: Research Associate. Institut National de l'Audiovisuel. Paris, France
 - 2020: Research Assistant. CREST. Palaiseau, France
 - 2019: Machine Learning Intern. Artelys. Paris, France.
+
+
+## Service
+
+
+- Reviewer for *European Societies*. 
+
+
+## Grants and Fellowships
+
+- 2020: Louise-Merzeau Fellowship. Institut National de l'Audiovisuel.
