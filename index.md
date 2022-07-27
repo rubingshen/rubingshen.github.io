@@ -1,7 +1,7 @@
 ### [Home](index.md) • [Publications](publications.md) • [Talks](talks.md) • [Teaching](teaching.md) • [Vita](cv.md)
 
 
-## Welcome!
+# Welcome!
 
 
 I am a PhD candidate in sociology at the [Sciences Po's Médialab](https://medialab.sciencespo.fr/en/) and at the [Center for Research in Economics and Statistics](https://crest.science), under the supervision of [Jean-Philippe Cointet](https://medialab.sciencespo.fr/en/people/jean-philippe-cointet/) and [Étienne Ollion](https://ollion.cnrs.fr/english/). 
@@ -16,6 +16,6 @@ I also have a methodological interest in computational social sciences. Based on
 
 
 
-### Research Interests
+## Research Interests
 - Sociology of Journalism. Cultural Sociology. Computational Social Sciences. Natural Language Processing. Causal Inference. 
 
