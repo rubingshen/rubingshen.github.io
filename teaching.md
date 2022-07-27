@@ -10,7 +10,7 @@
 - 2021; 2022, Fall Semester. *Introduction to Python (for Social Scientists)*. Sciences Po, Paris School of International Affairs (Master-level). Paris, France. 
 
 
-### Teaching Assistant
+### Teaching Assistantship
 
 
 - 2022, Fall Semester. *Decoding Biases in Artifical Intelligence*. Sciences Po, School of Public Affairs (Master-level). Paris, France.
