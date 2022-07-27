@@ -12,7 +12,7 @@ My research focuses on the transformations of political journalism in France ove
 
 
 
-I also have a methodological interest in computational social sciences. Based on examples from my empirical research, I attempt to illustrate how machine learning methods can provide new insights into some classic research questions in social sciences. 
+I also have a methodological interest in computational social sciences. Based on examples from my empirical research, I attempt to illustrate how machine learning can provide new insights into some classic research questions in social sciences. 
 
 
 
