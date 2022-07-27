@@ -3,7 +3,7 @@
 # Curriculum Vitae
 
 
-## Eduation
+### Eduation
 
 
 - 2020-    : Ph.D. Candidate. Sciences Po. *Sociology*.
@@ -11,7 +11,7 @@
 - 2018-2019: B.A. Université Paris-Nanterre. *Philosophy*. 
 
 
-## Professional Experience
+### Professional Experience
 
 
 - 2021-    : Lecturer. Sciences Po. Paris, France.
@@ -22,12 +22,12 @@
 - 2019: Machine Learning Intern. Artelys. Paris, France.
 
 
-## Service
+### Service
 
 
 - Reviewer for *European Societies*. 
 
 
-## Grants and Fellowships
+### Grants and Fellowships
 
 - 2020: Louise-Merzeau Fellowship. Institut National de l'Audiovisuel.
