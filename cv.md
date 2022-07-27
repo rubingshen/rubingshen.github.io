@@ -6,7 +6,7 @@
 ## Eduation
 
 
-- 2020-    : PhD Candidate. Sciences Po. *Sociology*.
+- 2020-    : Ph.D. Candidate. Sciences Po. *Sociology*.
 - 2017-2020: M.Sc. École polytechnique. *Diplôme d'ingénieur*. 
 - 2018-2019: B.A. Université Paris-Nanterre. *Philosophy*. 
 
