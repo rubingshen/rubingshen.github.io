@@ -8,7 +8,7 @@ I am a PhD candidate in sociology at the [Sciences Po's Médialab](https://media
 
 
 
-My research focuses on the transformations of political journalism in France over the last decades, with a special focus on the changing narrative of politics-related events in French print media. By combining machine learning (especially *natural language processing*) and econometric methods, I aim to identify the driving forces accounting for changes in journalistic norms. 
+My research focuses on the transformations of political journalism in France over the last decades, with a special focus on the changing framing of politics-related events in French print media. By combining machine learning (especially *natural language processing*) and econometric methods, I aim to identify the driving forces accounting for changes in journalistic norms. 
 
 
 
