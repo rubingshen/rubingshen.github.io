@@ -7,7 +7,7 @@
 
 
 - 2020-    : Ph.D. Candidate. Sciences Po. *Sociology*.
-- 2017-2020: M.Sc.(Diplôme d'ingénieur) École polytechnique. *Mathematics*. 
+- 2017-2020: M.Sc. (Diplôme d'ingénieur) École polytechnique. *Mathematics*. 
 - 2018-2019: B.A. Université Paris-Nanterre. *Philosophy*. 
 
 
