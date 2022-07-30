@@ -5,7 +5,7 @@
 ### Peer-reviewed journals
 
 
-Comming soon!
+Coming soon!
 
 
 ### Others
