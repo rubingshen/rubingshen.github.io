@@ -4,7 +4,7 @@
 
 ### Peer-Reviewed Journals
 
-- Do, Salomé, Étienne Ollion, Rubing Shen. 2022. "The Augmented Social Scientist. Using Sequential Transfer Learning to Annotate Texts Faster and More Accurately". *Sociological Methods & Research*. Conditionally accepted. ([preprint](https://osf.io/preprints/socarxiv/3fkzc/))
+- Do, Salomé, Étienne Ollion, Rubing Shen. 2022. "The Augmented Social Scientist. Using Sequential Transfer Learning to Annotate Texts Faster and More Accurately". *Sociological Methods & Research*. Forthcoming. ([preprint](https://osf.io/preprints/socarxiv/3fkzc/))
 
 
 ### Others
