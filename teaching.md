@@ -25,4 +25,5 @@
 
 ### Guest Lectures
 
+- 2022, October 7<sup>th</sup>. *Enjeux sociaux*. ENSAE. Palaiseau, France.
 - 2021, January 21<sup>th</sup>. *Sociologie du champ politiquqe*. École polytechnique. Palaiseau, France.
