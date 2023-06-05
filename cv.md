@@ -6,9 +6,10 @@
 ### Eduation
 
 
-- 2020-    : Ph.D. Candidate. Sciences Po. *Sociology*.
-- 2017-2020: M.Sc. École polytechnique. *Diplôme d'ingénieur (major in Mathematics)*. 
-- 2018-2019: B.A. Université Paris-Nanterre. *Philosophy*. 
+- 2024: Ph.D. Candidate. Sciences Po. *Sociology*.
+- 2023: M.P.A. École des mines de Paris. *Corps des Mines*.
+- 2020: M.Sc. École polytechnique. *Diplôme d'ingénieur (major in Mathematics)*. 
+- 2019: B.A. Université Paris-Nanterre. *Philosophy*. 
 
 
 ### Professional Experience
