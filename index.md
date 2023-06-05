@@ -4,7 +4,7 @@
 # Welcome!
 
 
-I am a PhD candidate in sociology at the [Sciences Po's Médialab](https://medialab.sciencespo.fr/en/) and at the [Center for Research in Economics and Statistics](https://crest.science), under the supervision of [Jean-Philippe Cointet](https://medialab.sciencespo.fr/en/people/jean-philippe-cointet/) and [Étienne Ollion](https://ollion.cnrs.fr/english/). 
+I am a PhD candidate in sociology at the [Sciences Po's Médialab](https://medialab.sciencespo.fr/en/) and at the [Center for Research in Economics and Statistics (Institut polytechnique de Paris)](https://crest.science), under the supervision of [Jean-Philippe Cointet](https://medialab.sciencespo.fr/en/people/jean-philippe-cointet/) and [Étienne Ollion](https://ollion.cnrs.fr/english/). 
 
 
 
