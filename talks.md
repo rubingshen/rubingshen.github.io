@@ -6,6 +6,7 @@
 
 ### Keynotes and Invited Presentations
 
+- (with É. Ollion) The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy. *9th International Conference on Computational Social Science*. Tutorial session. Copenhagen, Danmark. July 17<sup>th</sup> 2023.
 
 - The Augmented Social Scientist. *SICSS-Paris*. Palaiseau, France. June 30<sup>th</sup> 2022.
 
@@ -15,6 +16,7 @@
 
 ### Conference Presentations
 
+- (with A. Chatelain, F. Lennert & É. Ollion) Media Slant as Political Refraction: Measuring the Ideological Diversity of the French Media Landscape. *9th International Conference on Computational Social Science*. Copenhagen, Danmark. July 20<sup>th</sup> 2023.
 
 - (with F. Lennert & É. Ollion) A Right-Wing Turn in the Media? On the (Many) Challenges of Measuring Media Bias with Text Data. *16ème Congrès National de l’Association Française de Sciences Politiques*. Lille, France. July 7<sup>th</sup> 2022.
 
