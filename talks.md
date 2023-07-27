@@ -8,7 +8,7 @@
 
 - (with É. Ollion) The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy. *9th International Conference on Computational Social Science*. Tutorial session. Copenhagen, Danmark. July 17<sup>th</sup> 2023.
 
-- The Augmented Social Scientist. *SICSS-Paris*. Palaiseau, France. June 30<sup>th</sup> 2022.
+- The Augmented Social Scientist. *Summer Institute in Computational Social Science - Paris*. Palaiseau, France. June 30<sup>th</sup> 2022.
 
 
 - Investigating the Rise and Causes of Strategic News Coverage with Artificial Intelligence. *International Roundtable on Computational Social Science*. Norrköping, Sweden. March 17<sup>th</sup> 2022.
