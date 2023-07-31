@@ -20,4 +20,4 @@ I also have a methodological interest in computational social sciences. Based on
 - Sociology of Journalism. Cultural Sociology. Computational Social Sciences. Natural Language Processing. Causal Inference. 
 
 ## Package
-Check the package [*AugmentedSocialScientist*](https://pypi.org/project/AugmentedSocialScientist/) to simply train BERT-like models!
+Check the package [*AugmentedSocialScientist*](https://pypi.org/project/AugmentedSocialScientist/) to easily train BERT-like models!
