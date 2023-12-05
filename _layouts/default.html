@@ -20,7 +20,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo"/>
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="max-width: 80%;"/>
         {% endif %}
 
         
@@ -31,10 +31,9 @@
 
       </section>
       <footer>
-        <h2>Contact</h2>
+        <h3>Contact</h3>
         <p><a href="{{ site.mail. }}">{{ site.mail}}</a></p>
-        <!<br>-->
-        <!<h2>Social Networks</h2>
+        <h3>Social Networks</h3>
         <ul class="social-icons">
           {% if site.twitter %}
             <li><a href="https://twitter.com/{{ site.twitter}}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -49,7 +48,7 @@
             <li><a href="{{ site.googlescholar }}"><i class="fab fa-googlescholar" aria-hidden="true"></i> Google Scholar</a></li>
           {% endif %}   
      
-        </ul>-->
+        </ul>
 
       </footer>
     </div>
