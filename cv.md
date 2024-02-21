@@ -26,7 +26,7 @@
 ### Service
 
 
-- Reviewer for *European Societies*. 
+- Reviewer for *Sociological Methods and Research*, *European Societies*. 
 
 
 ### Grants and Fellowships
