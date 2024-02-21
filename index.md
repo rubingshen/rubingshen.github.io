@@ -22,5 +22,5 @@ Sociology of Journalism. Cultural Sociology. Computational Social Sciences. Natu
 ## Contact
 [rubing.shen@sciencespo.fr](mailto:rubing.shen@sciencespo.fr)
 
-## Package
+## Python Package
 Check the package [*AugmentedSocialScientist*](https://pypi.org/project/AugmentedSocialScientist/) to easily train BERT-like models!
