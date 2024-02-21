@@ -16,10 +16,11 @@
 
 ### Conference Presentations
 
+- (with A. Chatelain, A. Macanovic & É. Ollion) LLMs for Text Annotation: Promises, Patterns and Pitfalls of a new Methodological Approach. *AI for PolSci Research 2024 Workshop*. Barcelona, Spain. Janurary 30<sup>th</sup> 2024.
+
 - (with A. Chatelain, F. Lennert & É. Ollion) Media Slant as Political Refraction: Measuring the Ideological Diversity of the French Media Landscape. *9th International Conference on Computational Social Science*. Copenhagen, Danmark. July 20<sup>th</sup> 2023.
 
 - (with F. Lennert & É. Ollion) A Right-Wing Turn in the Media? On the (Many) Challenges of Measuring Media Bias with Text Data. *16ème Congrès National de l’Association Française de Sciences Politiques*. Lille, France. July 7<sup>th</sup> 2022.
-
 
 - (with S. Do & É. Ollion) Le journalisme politique d'hier à aujourd'hui. Une étude outillée par l’intelligence artificielle. *9ème Congrès de l'Association Française de Sociologie*. Lille, France. July 9<sup>th</sup> 2021.
 
