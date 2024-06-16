@@ -1,4 +1,4 @@
-**[Home](index.md) • [Publications](publications.md) • [Talks](talks.md) • [Teaching](teaching.md) • [Vita](cv.md)**
+**[Home](index.md) • [Publications](publications.md) • [Talks](talks.md) • [Teaching](teaching.md) • [Vita](cv.md) • [SICSS](sicss.md)**
 
 # Curriculum Vitae
 
