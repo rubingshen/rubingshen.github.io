@@ -5,6 +5,7 @@
 
 
 ### Keynotes and Invited Presentations
+- Language Models for Social Science Research: in Practice. *Summer Institute in Computational Social Science - Bologna*. Bologna, Italy. June 18<sup>th</sup> 2024.
 
 - (with É. Ollion) The Augmented Social Scientist. Using Recent Advances in NLP to Annotate Millions of Texts with a Human-Level Accuracy. *9th International Conference on Computational Social Science*. Tutorial session. Copenhagen, Danmark. July 17<sup>th</sup> 2023.
 
