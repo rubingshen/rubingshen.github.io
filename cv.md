@@ -18,7 +18,6 @@
 - 2021-2023: Lecturer. Sciences Po. Paris, France.
 - 2021-2022: Visiting Scholar. Institut for Analytical Sociology. Norrköping, Sweden.
 - 2020-2021: Data Scientist. Mediapart. Paris, France. 
-- 2020-2021: Research Associate. Institut National de l'Audiovisuel. Paris, France.
 - 2020: Research Assistant. CREST. Palaiseau, France.
 - 2019: Machine Learning Intern. Artelys. Paris, France.
 
@@ -27,8 +26,3 @@
 
 
 - Reviewer for *Sociological Methods & Research*, *European Societies*. 
-
-
-### Grants and Fellowships
-
-- 2020: Louise-Merzeau Fellowship. Institut National de l'Audiovisuel.
